@@ -13,8 +13,8 @@ We grant you a non-exclusive, non-transferable, revocable license to use the App
 **3. User Accounts & Responsibilities**
 
 Account Security: you are responsible for maintaining your login credentials and preventing unauthorized access.
-Accurate Information: you agree to provide accurate email and password information.
-Prohibited Conduct: you must not reverse-engineer, decompile, or misuse the API.
+**Accurate Information**: you agree to provide accurate email and password information.
+**rohibited Conduct**: you must not reverse-engineer, decompile, or misuse the API.
 
 **4. Data & Intellectual Property**
 
